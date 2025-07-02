@@ -1,5 +1,5 @@
 # AI-CHATBOT-WITH-NLP-in-PYTHON
-this is the third task of my first summer internship in python programming 
+this is third project of my first summer internship in python programming 
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
